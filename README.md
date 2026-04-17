@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Boki058/Boki058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Boki058!
 
-Here are some ideas to get you started:
+### Welcome to my GitHub profile 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🙋 About Me
+
+I'm on an exciting journey learning about the world of software development and open source collaboration. I recently completed the **Introduction to GitHub** course and I'm just getting started!
+
+- 🌱 **Currently learning:** Git, GitHub, and the fundamentals of open source development
+- 🔭 **Currently working on:** Building my first projects and exploring new technologies
+- 👯 **Looking to collaborate on:** Beginner-friendly open source projects
+- 💬 **Ask me about:** My GitHub learning journey
+- ⚡ **Fun fact:** Every expert was once a beginner!
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Boki058's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boki058&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boki058&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- ✅ Completed **Introduction to GitHub** — GitHub Skills
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Boki058-181717?style=flat-square&logo=github)](https://github.com/Boki058)
+
+---
+
+<div align="center">
+
+*"The journey of a thousand miles begins with a single commit."* 🌟
+
+</div>
