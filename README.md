@@ -28,23 +28,6 @@ I'm on an exciting journey learning about the world of software development and 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Boki058's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boki058&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boki058&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-- ✅ Completed **Introduction to GitHub** — GitHub Skills
-
----
 
 ## 📫 Connect with Me
 
