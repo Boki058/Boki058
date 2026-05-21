@@ -32,7 +32,7 @@ I'm on an exciting journey learning about the world of software development and 
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Boki058-181717?style=flat-square&logo=github)](https://github.com/Boki058)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Boki_dev)
+[![Boki.dev](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Boki_dev)
 
 ---
 
