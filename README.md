@@ -22,17 +22,16 @@ I'm on an exciting journey learning about the world of software development and 
 
 ## Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://math.hws.edu/javanotes/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 ---
 
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Boki058-181717?style=flat-square&logo=github)](https://github.com/Boki058)
-[![Boki.dev](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Boki_dev)
+[![Boki.dev](https://img.shields.io/badge/Boki.dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Boki_dev)
 
 ---
 
