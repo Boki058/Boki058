@@ -10,7 +10,7 @@
 
 ##  About Me
 
-I'm on an exciting journey learning about the world of software development and open source collaboration. I recently completed the **Java biginner** course and I'm just getting started!
+I'm on an exciting journey learning about the world of software development and open source collaboration. I recently completed the **IelliJ Java biginner** course and I'm just getting started!
 
 -  **Currently learning:** Opject Oriented Programming using Java
 -  **Currently working on:** Building my first projects and exploring new technologies
