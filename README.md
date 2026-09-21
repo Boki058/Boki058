@@ -15,9 +15,6 @@ I'm on an exciting journey learning about the world of software development and 
 -  **Currently learning:** Opject Oriented Programming using Java
 -  **Currently working on:** Building my first projects and exploring new technologies
 -  **Looking to collaborate on:** Beginner-friendly open source projects
--  **Ask me about:** My Java learning journey
--  **Fun fact:** Every expert was once a beginner!
-
 ---
 
 ## Tools & Technologies
