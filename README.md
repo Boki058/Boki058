@@ -34,6 +34,5 @@ I'm on an exciting journey learning about the world of software development and 
 
 <div align="center">
 
-*"Do it because they said you couldn't"* 🌟
 
 </div>
